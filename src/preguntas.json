@@ -1,0 +1,56 @@
+{
+    "nivel_1":[
+        {
+            "pregunta":"¿Como se llama el ratón de Disney?",
+            "opciones":[
+                {"A":"Manuel"},
+                {"B":"Mickey"},
+                {"C":"Donald"},
+                {"D":"Bernardo"}
+            ],
+            "respuesta":{"B":"Mickey"}
+        },
+        {
+            "pregunta":"¿Cual de estos es el resultado de 2 + 2?",
+            "opciones":[
+                {"A":"Te pongo"},
+                {"B":"Mientras más me lo mamas más me crece"},
+                {"C":"Pez"},
+                {"D":"4"}
+            ],
+            "respuesta":{"D":"4"}
+        },
+        {
+            "pregunta":"¿tienes hambre?",
+            "opciones":[
+                {"A":"Si"},
+                {"B":"No, ya comí"},
+                {"C":"Hipotalamo"},
+                {"D":"Paralelepipedo"}
+            ],
+            "respuesta":{"A":"Si"}
+        }
+    ],
+    "nivel_2":[
+        {
+            "pregunta":"¿Cuién es luca?",
+            "opciones":[
+                {"A":"Pato luca"},
+                {"B":"El carajito de disney"},
+                {"C":"El que te pasó el webo por la nuca"},
+                {"D":"Todos los ya mencionados"}
+            ],
+            "respuesta":{"D":"Todos los ya mencionados"}
+        },
+        {
+            "pregunta":"¿Por qué estoy haciendo esto?",
+            "opciones":[
+                {"A":"No sé"},
+                {"B":"Quiero aprender"},
+                {"C":"Porque sí"},
+                {"D":"Maduro"}
+            ],
+            "respuesta":{"D":"Maduro"}
+        }
+    ]
+}

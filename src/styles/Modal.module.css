@@ -1,0 +1,49 @@
+/* .container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+/* @import '../styles/vars.css'; */
+
+.container_modal{
+    top:0;
+    left:0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgb(255,255,255);
+    background: linear-gradient(151deg, #fff 20%, var(--color--2) 70%, var(--color--1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+
+.box{
+    width: 80%;
+    height: 50%;
+    background: rgb(255,255,255);
+    background: linear-gradient(151deg, #0056f7 0%, var(--color--2) 40%, #fff 70%);
+    color: var(--color--5);
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    font-size: 2rem;
+    border-radius: 10px;
+    border: 2px solid var(--color--5)
+}
+.message{
+    font-weight: 600;
+}
+.button{
+    border: 2px solid var(--color--2);
+    padding: 10px 20px;
+    background-color: var(--color--5);
+    font-size: 1.2rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
