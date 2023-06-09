@@ -5,14 +5,12 @@
 }
 
 .timer {
-    font-family: "Montserrat";
     display: flex;
-    flex-direction: column;
     align-items: center;
 }
 
 .value{
-    font-size: 4rem;
+    font-size: 3.5rem;
     font-weight: 600;
     -webkit-text-stroke: .8px black;
 }

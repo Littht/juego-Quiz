@@ -1,56 +1,846 @@
 {
-    "nivel_1":[
+    "nivel_1": [
         {
-            "pregunta":"¿Como se llama el ratón de Disney?",
-            "opciones":[
-                {"A":"Manuel"},
-                {"B":"Mickey"},
-                {"C":"Donald"},
-                {"D":"Bernardo"}
+            "pregunta": "¿Cual de estos es el resultado de 2 + 2?",
+            "opciones": [
+                {
+                    "A": "Te pongo"
+                },
+                {
+                    "B": "Mientras más me lo mamas más me crece"
+                },
+                {
+                    "C": "Pez"
+                },
+                {
+                    "D": "4"
+                }
             ],
-            "respuesta":{"B":"Mickey"}
+            "respuesta": {
+                "D": "4"
+            }
         },
         {
-            "pregunta":"¿Cual de estos es el resultado de 2 + 2?",
-            "opciones":[
-                {"A":"Te pongo"},
-                {"B":"Mientras más me lo mamas más me crece"},
-                {"C":"Pez"},
-                {"D":"4"}
+            "pregunta": "¿Cuál es el río más largo del mundo?",
+            "opciones": [
+                {
+                    "A": "Amazonas"
+                },
+                {
+                    "B": "Nilo"
+                },
+                {
+                    "C": "Yangtze"
+                },
+                {
+                    "D": "Mississippi"
+                }
             ],
-            "respuesta":{"D":"4"}
+            "respuesta": {
+                "B": "Nilo"
+            }
         },
         {
-            "pregunta":"¿tienes hambre?",
-            "opciones":[
-                {"A":"Si"},
-                {"B":"No, ya comí"},
-                {"C":"Hipotalamo"},
-                {"D":"Paralelepipedo"}
+            "pregunta": "¿En qué año se fundó Microsoft?",
+            "opciones": [
+                {
+                    "A": "1975"
+                },
+                {
+                    "B": "1985"
+                },
+                {
+                    "C": "1995"
+                },
+                {
+                    "D": "2005"
+                }
             ],
-            "respuesta":{"A":"Si"}
+            "respuesta": {
+                "A": "1975"
+            }
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la Torre Eiffel?",
+            "opciones": [
+                {
+                    "A": "España"
+                },
+                {
+                    "B": "Francia"
+                },
+                {
+                    "C": "Italia"
+                },
+                {
+                    "D": "Alemania"
+                }
+            ],
+            "respuesta": {
+                "B": "Francia"
+            }
+        },
+        {
+            "pregunta": "¿Quién escribió la obra 'Cien años de soledad'?",
+            "opciones": [
+                {
+                    "A": "Gabriel García Márquez"
+                },
+                {
+                    "B": "Pablo Neruda"
+                },
+                {
+                    "C": "Octavio Paz"
+                },
+                {
+                    "D": "Mario Vargas Llosa"
+                }
+            ],
+            "respuesta": {
+                "A": "Gabriel García Márquez"
+            }
+        },
+        {
+            "pregunta": "¿Qué país es conocido como la 'tierra del sol naciente'?",
+            "opciones": [
+                {
+                    "A": "China"
+                },
+                {
+                    "B": "Japón"
+                },
+                {
+                    "C": "Corea del Norte"
+                },
+                {
+                    "D": "Vietnam"
+                }
+            ],
+            "respuesta": {
+                "B": "Japón"
+            }
+        },
+        {
+            "pregunta": "¿tienes hambre?",
+            "opciones": [
+                {
+                    "A": "Si"
+                },
+                {
+                    "B": "No, ya comí"
+                },
+                {
+                    "C": "Hipotalamo"
+                },
+                {
+                    "D": "Paralelepipedo"
+                }
+            ],
+            "respuesta": {
+                "A": "Si"
+            }
+        },
+        {
+            "pregunta": "¿Qué instrumento musical tiene teclas negras y blancas?",
+            "opciones": [
+                {
+                    "A": "Guitarra"
+                },
+                {
+                    "B": "Piano"
+                },
+                {
+                    "C": "Batería"
+                },
+                {
+                    "D": "Trompeta"
+                }
+            ],
+            "respuesta": {
+                "B": "Piano"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es la capital de México?",
+            "opciones": [
+                {
+                    "A": "Ciudad de México"
+                },
+                {
+                    "B": "Monterrey"
+                },
+                {
+                    "C": "Guadalajara"
+                },
+                {
+                    "D": "Tijuana"
+                }
+            ],
+            "respuesta": {
+                "A": "Ciudad de México"
+            }
+        },
+        {
+            "pregunta": "¿Qué ciudad es conocida como la 'ciudad del amor'?",
+            "opciones": [
+                {
+                    "A": "Nueva York"
+                },
+                {
+                    "B": "Roma"
+                },
+                {
+                    "C": "París"
+                },
+                {
+                    "D": "Londres"
+                }
+            ],
+            "respuesta": {
+                "C": "París"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se estrenó la primera película de Star Wars?",
+            "opciones": [
+                {
+                    "A": "1977"
+                },
+                {
+                    "B": "1987"
+                },
+                {
+                    "C": "1997"
+                },
+                {
+                    "D": "2007"
+                }
+            ],
+            "respuesta": {
+                "A": "1977"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el océano más grande del mundo?",
+            "opciones": [
+                {
+                    "A": "Océano Atlántico"
+                },
+                {
+                    "B": "Océano Índico"
+                },
+                {
+                    "C": "Océano Pacífico"
+                },
+                {
+                    "D": "Océano Ártico"
+                }
+            ],
+            "respuesta": {
+                "C": "Océano Pacífico"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es la capital de Colombia?",
+            "opciones": [
+                {
+                    "A": "Bogotá"
+                },
+                {
+                    "B": "Medellín"
+                },
+                {
+                    "C": "Cali"
+                },
+                {
+                    "D": "Barranquilla"
+                }
+            ],
+            "respuesta": {
+                "A": "Bogotá"
+            }
+        },
+        {
+            "pregunta": "¿En qué país se encuentra la ciudad de Petra, conocida por sus edificios tallados en roca?",
+            "opciones": [
+                {
+                    "A": "Grecia"
+                },
+                {
+                    "B": "Egipto"
+                },
+                {
+                    "C": "Jordania"
+                },
+                {
+                    "D": "Israel"
+                }
+            ],
+            "respuesta": {
+                "C": "Jordania"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el idioma más hablado del mundo?",
+            "opciones": [
+                {
+                    "A": "Inglés"
+                },
+                {
+                    "B": "Mandarín"
+                },
+                {
+                    "C": "Español"
+                },
+                {
+                    "D": "Francés"
+                }
+            ],
+            "respuesta": {
+                "B": "Mandarín"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del famoso detective creado por Arthur Conan Doyle?",
+            "opciones": [
+                {
+                    "A": "Hércules Poirot"
+                },
+                {
+                    "B": "Sherlock Holmes"
+                },
+                {
+                    "C": "Hercule Savinien de Cyrano de Bergerac"
+                },
+                {
+                    "D": "Philip Marlowe"
+                }
+            ],
+            "respuesta": {
+                "B": "Sherlock Holmes"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el país más poblado del mundo?",
+            "opciones": [
+                {
+                    "A": "India"
+                },
+                {
+                    "B": "Rusia"
+                },
+                {
+                    "C": "China"
+                },
+                {
+                    "D": "Estados Unidos"
+                }
+            ],
+            "respuesta": {
+                "C": "China"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el país más grande de América Latina?",
+            "opciones": [
+                {
+                    "A": "México"
+                },
+                {
+                    "B": "Argentina"
+                },
+                {
+                    "C": "Brasil"
+                },
+                {
+                    "D": "Colombia"
+                }
+            ],
+            "respuesta": {
+                "C": "Brasil"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del personaje principal de la novela 'Moby Dick'?",
+            "opciones": [
+                {
+                    "A": "Ishmael"
+                },
+                {
+                    "B": "Captain Ahab"
+                },
+                {
+                    "C": "Queequeg"
+                },
+                {
+                    "D": "Starbuck"
+                }
+            ],
+            "respuesta": {
+                "B": "Captain Ahab"
+            }
+        },
+        {
+            "pregunta": "¿Quién pintó la obra 'La noche estrellada'?",
+            "opciones": [
+                {
+                    "A": "Leonardo da Vinci"
+                },
+                {
+                    "B": "Vincent van Gogh"
+                },
+                {
+                    "C": "Pablo Picasso"
+                },
+                {
+                    "D": "Salvador Dalí"
+                }
+            ],
+            "respuesta": {
+                "B": "Vincent van Gogh"
+            }
         }
     ],
-    "nivel_2":[
+    "nivel_2": [
         {
-            "pregunta":"¿Cuién es luca?",
-            "opciones":[
-                {"A":"Pato luca"},
-                {"B":"El carajito de disney"},
-                {"C":"El que te pasó el webo por la nuca"},
-                {"D":"Todos los ya mencionados"}
+            "pregunta": "¿Cuién es luca?",
+            "opciones": [
+                {
+                    "A": "Pato luca"
+                },
+                {
+                    "B": "El carajito de disney"
+                },
+                {
+                    "C": "El que te pasó el webo por la nuca"
+                },
+                {
+                    "D": "Todos los ya mencionados"
+                }
             ],
-            "respuesta":{"D":"Todos los ya mencionados"}
+            "respuesta": {
+                "D": "Todos los ya mencionados"
+            }
         },
         {
-            "pregunta":"¿Por qué estoy haciendo esto?",
-            "opciones":[
-                {"A":"No sé"},
-                {"B":"Quiero aprender"},
-                {"C":"Porque sí"},
-                {"D":"Maduro"}
+            "pregunta": "¿Por qué estoy haciendo esto?",
+            "opciones": [
+                {
+                    "A": "No sé"
+                },
+                {
+                    "B": "Quiero aprender"
+                },
+                {
+                    "C": "Porque sí"
+                },
+                {
+                    "D": "Maduro"
+                }
             ],
-            "respuesta":{"D":"Maduro"}
+            "respuesta": {
+                "D": "Maduro"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se celebraron los primeros Juegos Olímpicos modernos?",
+            "opciones": [
+                {
+                    "A": "1896"
+                },
+                {
+                    "B": "1906"
+                },
+                {
+                    "C": "1916"
+                },
+                {
+                    "D": "1926"
+                }
+            ],
+            "respuesta": {
+                "A": "1896"
+            }
+        },
+        {
+            "pregunta": "¿Quién es el autor de 'El Principito'?",
+            "opciones": [
+                {
+                    "A": "Antoine de Saint-Exupéry"
+                },
+                {
+                    "B": "Victor Hugo"
+                },
+                {
+                    "C": "Albert Camus"
+                },
+                {
+                    "D": "Gustave Flaubert"
+                }
+            ],
+            "respuesta": {
+                "A": "Antoine de Saint-Exupéry"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se produjo la caída del Muro de Berlín?",
+            "opciones": [
+                {
+                    "A": "1981"
+                },
+                {
+                    "B": "1989"
+                },
+                {
+                    "C": "1991"
+                },
+                {
+                    "D": "1993"
+                }
+            ],
+            "respuesta": {
+                "B": "1989"
+            }
+        },
+        {
+            "pregunta": "¿En qué año comenzó la Primera Guerra Mundial?",
+            "opciones": [
+                {
+                    "A": "1914"
+                },
+                {
+                    "B": "1915"
+                },
+                {
+                    "C": "1916"
+                },
+                {
+                    "D": "1917"
+                }
+            ],
+            "respuesta": {
+                "A": "1914"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se fundó la ciudad de Roma?",
+            "opciones": [
+                {
+                    "A": "753 a.C."
+                },
+                {
+                    "B": "12 a.C."
+                },
+                {
+                    "C": "250 d.C."
+                },
+                {
+                    "D": "1200 d.C."
+                }
+            ],
+            "respuesta": {
+                "A": "753 a.C."
+            }
+        },
+        {
+            "pregunta": "¿Quién escribió el poema épico 'La Ilíada'?",
+            "opciones": [
+                {
+                    "A": "Homero"
+                },
+                {
+                    "B": "Virgilio"
+                },
+                {
+                    "C": "Ovidio"
+                },
+                {
+                    "D": "Dante Alighieri"
+                }
+            ],
+            "respuesta": {
+                "A": "Homero"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se construyó la Gran Muralla China?",
+            "opciones": [
+                {
+                    "A": "221 a.C."
+                },
+                {
+                    "B": "206 a.C."
+                },
+                {
+                    "C": "221 d.C."
+                },
+                {
+                    "D": "206 d.C."
+                }
+            ],
+            "respuesta": {
+                "A": "221 a.C."
+            }
+        },
+        {
+            "pregunta": "¿Quién es el autor de la novela '1984'?",
+            "opciones": [
+                {
+                    "A": "Aldous Huxley"
+                },
+                {
+                    "B": "George Orwell"
+                },
+                {
+                    "C": "Ray Bradbury"
+                },
+                {
+                    "D": "Ernest Hemingway"
+                }
+            ],
+            "respuesta": {
+                "B": "George Orwell"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se descubrió América?",
+            "opciones": [
+                {
+                    "A": "1492"
+                },
+                {
+                    "B": "1453"
+                },
+                {
+                    "C": "1517"
+                },
+                {
+                    "D": "1521"
+                }
+            ],
+            "respuesta": {
+                "A": "1492"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el metal más caro del mundo?",
+            "opciones": [
+                {
+                    "A": "Oro"
+                },
+                {
+                    "B": "Plata"
+                },
+                {
+                    "C": "Platino"
+                },
+                {
+                    "D": "Rodio"
+                }
+            ],
+            "respuesta": {
+                "D": "Rodio"
+            }
+        },
+        {
+            "pregunta": "¿Quién es el autor de la novela 'Matar a un ruiseñor'?",
+            "opciones": [
+                {
+                    "A": "Harper Lee"
+                },
+                {
+                    "B": "Truman Capote"
+                },
+                {
+                    "C": "Ernest Hemingway"
+                },
+                {
+                    "D": "John Steinbeck"
+                }
+            ],
+            "respuesta": {
+                "A": "Harper Lee"
+            }
+        },
+        {
+            "pregunta": "¿Quién escribió el poema 'La divina comedia'?",
+            "opciones": [
+                {
+                    "A": "Dante Alighieri"
+                },
+                {
+                    "B": "Petrarca"
+                },
+                {
+                    "C": "Giovanni Boccaccio"
+                },
+                {
+                    "D": "Leonardo da Vinci"
+                }
+            ],
+            "respuesta": {
+                "A": "Dante Alighieri"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se inventó el teléfono?",
+            "opciones": [
+                {
+                    "A": "1867"
+                },
+                {
+                    "B": "1876"
+                },
+                {
+                    "C": "1885"
+                },
+                {
+                    "D": "1892"
+                }
+            ],
+            "respuesta": {
+                "B": "1876"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el nombre de la estrella más cercana al sistema solar?",
+            "opciones": [
+                {
+                    "A": "Sirio"
+                },
+                {
+                    "B": "Próxima Centauri"
+                },
+                {
+                    "C": "Betelgeuse"
+                },
+                {
+                    "D": "Antares"
+                }
+            ],
+            "respuesta": {
+                "B": "Próxima Centauri"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se fundó la UNESCO?",
+            "opciones": [
+                {
+                    "A": "1945"
+                },
+                {
+                    "B": "1950"
+                },
+                {
+                    "C": "1960"
+                },
+                {
+                    "D": "1975"
+                }
+            ],
+            "respuesta": {
+                "A": "1945"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se descubrió la estructura del ADN?",
+            "opciones": [
+                {
+                    "A": "1948"
+                },
+                {
+                    "B": "1953"
+                },
+                {
+                    "C": "1960"
+                },
+                {
+                    "D": "1972"
+                }
+            ],
+            "respuesta": {
+                "B": "1953"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del mar más pequeño del mundo?",
+            "opciones": [
+                {
+                    "A": "Mar de Mármara"
+                },
+                {
+                    "B": "Mar de Aral"
+                },
+                {
+                    "C": "Mar de Andamán"
+                },
+                {
+                    "D": "Mar Negro"
+                }
+            ],
+            "respuesta": {
+                "A": "Mar de Mármara"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se fundó la compañía Apple?",
+            "opciones": [
+                {
+                    "A": "1972"
+                },
+                {
+                    "B": "1976"
+                },
+                {
+                    "C": "1980"
+                },
+                {
+                    "D": "1984"
+                }
+            ],
+            "respuesta": {
+                "B": "1976"
+            }
+        },
+        {
+            "pregunta": "¿Cuál es el nombre del primer satélite artificial de la Tierra?",
+            "opciones": [
+                {
+                    "A": "Vanguard 1"
+                },
+                {
+                    "B": "Sputnik 1"
+                },
+                {
+                    "C": "Explorer 1"
+                },
+                {
+                    "D": "Telstar 1"
+                }
+            ],
+            "respuesta": {
+                "B": "Sputnik 1"
+            }
+        },
+        {
+            "pregunta": "¿En qué año se fundó la ciudad de Nueva York?",
+            "opciones": [
+                {
+                    "A": "1610"
+                },
+                {
+                    "B": "1624"
+                },
+                {
+                    "C": "1638"
+                },
+                {
+                    "D": "1645"
+                }
+            ],
+            "respuesta": {
+                "B": "1624"
+            }
         }
     ]
 }
